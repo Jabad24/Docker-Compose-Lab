@@ -10,11 +10,11 @@ Everything worked correctly until I tried accessing Uptime Kuma through my brows
 
 <img width="512" height="284" alt="IM1" src="https://github.com/user-attachments/assets/219d3959-be5a-460e-b1b7-997f64cedbdc" />
 
--Here is this image I began to install the docker 
+-Here in this image I began to install the docker 
 
 <img width="512" height="206" alt="IM2" src="https://github.com/user-attachments/assets/e2b908e9-1667-4196-a19f-f8111c9eda35" />
 
--The docker is fully installed
+-Here in The docker is fully installed
 
 <img width="512" height="323" alt="IMG3" src="https://github.com/user-attachments/assets/fa01e955-cbc6-4cd3-a023-b09acbd81f20" />
 
@@ -31,6 +31,6 @@ Everything worked correctly until I tried accessing Uptime Kuma through my brows
 
 <img width="512" height="227" alt="IMG6" src="https://github.com/user-attachments/assets/13c16b58-e614-4703-b0ff-0defb19d4b9e" />
 
-  -This is the Kuma admin interface after signing up and creating an account 
+-This is the Kuma admin interface after signing up and creating an account 
 
 
