@@ -30,6 +30,7 @@ Everything worked correctly until I tried accessing Uptime Kuma through my brows
 -Here Kuma is finally activated 
 
 <img width="512" height="227" alt="IMG6" src="https://github.com/user-attachments/assets/13c16b58-e614-4703-b0ff-0defb19d4b9e" />
--This is the Kuma admin interface after signing up and creating an account 
+
+  -This is the Kuma admin interface after signing up and creating an account 
 
 
