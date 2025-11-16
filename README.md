@@ -25,10 +25,11 @@ Everything worked correctly until I tried accessing Uptime Kuma through my brows
 -The docker is in enabled and being setup 
 
 
-<img width="512" height="227" alt="IMG6" src="https://github.com/user-attachments/assets/13c16b58-e614-4703-b0ff-0defb19d4b9e" />
+<img width="512" height="291" alt="IM5" src="https://github.com/user-attachments/assets/509d0f78-2a27-4fe2-8256-5959f6ccefd2" />
 
 -Here Kuma is finally activated 
 
-
+<img width="512" height="227" alt="IMG6" src="https://github.com/user-attachments/assets/13c16b58-e614-4703-b0ff-0defb19d4b9e" />
+-This is the Kuma admin interface after signing up and creating an account 
 
 
